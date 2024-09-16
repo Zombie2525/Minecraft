@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "rates-ipaq.gl.joinmc.link",
-          "assigned_srv": "rates-ipaq.gl.joinmc.link",
+          "assigned_domain": "h-carter.gl.joinmc.link",
+          "assigned_srv": "h-carter.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "b7e2dfad-1ed5-4c10-9105-4ceaa434cb51",
+          "id": "96ff5497-32cd-4eb3-bd46-4934caaa44c7",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 14354,
-          "port_start": 14353,
+          "port_end": 49186,
+          "port_start": 49185,
           "region": "global",
           "static_ip4": "147.185.221.22",
           "tunnel_ip": "2602:fbaf:0:1::16"
         },
         "status": "allocated"
       },
-      "created_at": "2024-09-15T03:05:24.136203Z",
+      "created_at": "2024-09-16T02:51:57.825125Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "298388f9-5992-4ed5-92dd-d5938cf32a4d",
+      "id": "0daf5fc5-2ddc-4588-9003-77b00e8dd1b8",
       "name": "Minecraft Java",
       "origin": {
         "data": {
